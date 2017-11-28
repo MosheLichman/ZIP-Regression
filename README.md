@@ -16,5 +16,4 @@ To make it easier to work with the code, I added to IPython notebooks to the rep
 1. numpy and scipy
 2. pandas
 3. cython
-
-You will need to run the setup.py code first by running the line python setup.py build_ext --inplace.
+4. You also need to run the setup.py. Type in the cmd line 'python setup.py build_ext --inplace' in the project directory.
